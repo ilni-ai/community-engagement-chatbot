@@ -19,7 +19,7 @@ This is the React 19+ Vite-based frontend for the **Community AI Chatbot**, a fu
 
 ## 📸 UI Preview
 
-![Chatbot UI Preview](../agentic-ai-server/screenshots/sample-ui.png)
+![Chatbot UI Preview](../agentic-ai-server/screenshots/ai-ui-response.png)
 
 ---
 
