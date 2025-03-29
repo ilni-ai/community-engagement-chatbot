@@ -126,7 +126,7 @@ npm start
 
 ## 📸 Screenshot
 
-![Agentic RAG in Action](./screenshots/ai-ui-response.png)
+![Agentic RAG in Action](.agentic-ai-server/screenshots/ai-ui-response.png)
 
 ---
 
