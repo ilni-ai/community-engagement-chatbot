@@ -1,0 +1,32 @@
+{
+  "name": "agentic-ai-server",
+  "version": "1.0.0",
+  "main": "community-engagement-service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node community-engagement-service.js",
+    "dev": "nodemon community-engagement-service.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@apollo/server": "^4.11.3",
+    "@google/generative-ai": "^0.24.0",
+    "@langchain/google-genai": "^0.1.11",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "graphql": "^16.10.0",
+    "langchain": "^0.3.19",
+    "mongoose": "^8.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  
+  "type": "module"
+  
+}
